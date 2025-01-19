@@ -33,7 +33,6 @@ Test cases are categorized based on the functionality they test, and each test c
 - **Actual Results** (filled after testing)
 - **Status** (Pass/Fail)
 
-You can find all the test cases in the `/test-cases` folder.
 
 ## Running the Tests
 
